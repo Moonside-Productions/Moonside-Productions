@@ -1,0 +1,15 @@
+/* TEAM */
+Developer & Designer: RMBLRX
+Twitter: @RMBLRX
+Site: http://rapidexpedition.org
+Location: Land of the Dakota
+
+
+/* THANKS */
+DVDAi: https://dvdai.bandcamp.com/
+
+/* SITE */
+Standards: HTML5, CSS3
+Components: Jekyll, Jekyll-Uno
+Software: Atom, Gimp, Graphic, Krita
+Platforms: Neocities, Netlify

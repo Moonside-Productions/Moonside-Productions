@@ -1,0 +1,39 @@
+# Site settings
+title: Moonside Productions
+description: "A formless music for the age to come. Or perhaps the last music on earth called up from out of the ashes of its ruin."
+url: 'http://mooonside.com'
+baseurl: "/"
+mainDestination: 'http://releases.mooonside.com'
+#google_analytics: ''
+#disqus_shortname: ''
+
+author:
+  name: "Moonside"
+  email: inquiries@mooonside.com
+  twitter_username: TRBMNSD
+  google_username: Moonside
+  facebook_username: TRBMNSD
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 5
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  # input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
