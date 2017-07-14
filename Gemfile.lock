@@ -194,7 +194,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.4.0)
+  jekyll
   jekyll-paginate
 
 BUNDLED WITH
