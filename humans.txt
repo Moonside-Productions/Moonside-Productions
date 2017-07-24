@@ -1,7 +1,7 @@
 /* TEAM */
 Developer & Designer: RMBLRX
 Twitter: @RMBLRX
-Site: http://rapidexpedition.org
+Site: https://rapidexpedition.org
 Location: Land of the Dakota
 
 
