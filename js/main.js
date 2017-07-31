@@ -20,7 +20,7 @@ $(document).ready(function () {
     $('.content-wrapper__inner').css('display', 'block')
   }
 
-  if (window.location.pathname !== '{{ "/" | relative_url }}' && window.location.pathname !== '{{ "/index.html" | relative_url }}') {
+  if (window.location.pathname !== '{{ "" | relative_url }}' && window.location.pathname !== '{{ "index.html" | relative_url }}') {
     $('.panel-cover').addClass('panel-cover--collapsed')
     $('.content-wrapper__inner').css('display', 'block')
   }
