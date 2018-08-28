@@ -1,0 +1,27 @@
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "_site"
+builddrafts = false
+relativeURLs = "true"
+title = "Moonside Productions"
+author = ""
+copyright = ""
+
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = ""
+  github = "rmblrx/moonsideProductions"
+  bitbucket = ""
+  flickr = ""
+  twitter = "trbmnsd"
+  email = "inquiries@mooonside.com"
+  description = "A formless music for the age to come. Or perhaps the last music on earth called up from out of the ashes of its ruin."
+  cv = ""
+  legalnotice = ""
+  muut = ""
+  linkedin = ""
+  cover = "/images/background-cover.jpg"
+  logo = "/images/logo.svg"
