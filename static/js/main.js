@@ -20,7 +20,8 @@ $(document).ready(function() {
     $('.content-wrapper__inner').css('display', 'block')
   }
 
-  if (window.location.pathname !== '/' && window.location.pathname !== '/index.html') {
+  if (window.location.pathname !== '/' && window.location.pathname !== '/index.html' && window.location.pathname
+!== /\/ip.s\/.{46}\//) { // TODO:10 trying this approach to resolving the tendency of the cover to collapse when the site's home is not at the URL root
     $('.panel-cover').addClass('panel-cover--collapsed');
     $('.content-wrapper__inner').css('display', 'block')
   }

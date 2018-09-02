@@ -23,5 +23,5 @@ copyright = ""
   legalnotice = ""
   muut = ""
   linkedin = ""
-  cover = "/images/background-cover.jpg"
+  cover = "https://ipfs.io/ipfs/QmRFqcCC9xd2MmqCZoasjHWRU4UyqtCMTm9CJRQhebPCJV" #NOTE: this is just a hack, as I've been unable to immediately solve the relativization issue for this particular item
   logo = "/images/logo.svg"
